@@ -1,7 +1,6 @@
 {
-  "name": "backend-express-mongodb",
-  "version": "1.0.0",
-  "description": "Atividade Avaliativa IV.v1.0.0: Backend em Express com Autenticação (JWT) e MongoDB em produção",
+  "name": "atv---u2",
+  "version": "2.0.0",
   "main": "api/index.js",
   "type": "module",
   "scripts": {
@@ -11,13 +10,16 @@
     "generate-secret-key": "node -e \"console.log(require('crypto').randomBytes(32).toString('hex'))\""
   },
   "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^3.0.2",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.14.2"
+    "mongoose": "^8.14.1",
+    "moongose": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
