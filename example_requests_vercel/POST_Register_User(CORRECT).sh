@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL do endpoint
-URL="https://backend-express-mongodb-two.vercel.app/users/register"
+URL="https://backend-express-mogodb-guqrk3dgz-leonardos-projects-d6f446c2.vercel.app/users/register"
 
 # Lista de usuários para registrar
 USERS=(

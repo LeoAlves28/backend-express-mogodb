@@ -1,5 +1,5 @@
 curl --request POST \
-  --url 'https://backend-express-mongodb-two.vercel.app/users/register' \
+  --url 'https://backend-express-mogodb-guqrk3dgz-leonardos-projects-d6f446c2.vercel.app/users/register' \
   --header 'Content-Type: application/json' \
   --data '{
     "username": "newuser",
